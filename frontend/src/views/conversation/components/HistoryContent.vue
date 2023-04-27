@@ -14,6 +14,8 @@
         :style="{ backgroundColor: themeVars.baseColor }"
       >
         <n-text>{{ $t('commons.currentConversationModel') }}: {{ getModelNameTrans(modelName as any) }} </n-text>
+        <n-text> 拥堵时请使用备选账户1：Sydney-Ai-1；2：Sydney-Ai-2；3：Sydney-Ai-3；4：Sydney-Ai-4；5：Sydney-Ai-5，密码均为Sydeny-Ai </n-text>
+        <n-text> PLUS版本33元起步，点击这里领取：<a href="https://b1n.net/6HmF0">Sydney</a> </n-text>
         <n-button
           v-if="_fullscreen"
           class="absolute left-4 hide-in-print"

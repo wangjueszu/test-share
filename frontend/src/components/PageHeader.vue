@@ -11,7 +11,7 @@
         <div class="hidden sm:block">
           <a
             class="h-full inline-block flex"
-            href="https://github.com/moeakwak/chatgpt-web-share"
+            href="https://b1n.net/6HmF0"
             target="_blank"
           >
             <n-icon
