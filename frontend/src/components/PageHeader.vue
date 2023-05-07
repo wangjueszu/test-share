@@ -15,7 +15,7 @@
             target="_blank"
           >
             <n-avatar>
-            <img src="/sydney-logo.png" alt="Sydney Logo" :style="{ filter: appStore.theme == 'dark' ? 'invert(1)' : 'invert(0)' }" />
+            <img src="/sydney-logo.svg" alt="Sydney Logo"}" />
             </n-avatar>
           </a>
         </div>
