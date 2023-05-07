@@ -13,9 +13,19 @@
         class="flex justify-center py-4 px-4 max-w-full relative"
         :style="{ backgroundColor: themeVars.baseColor }"
       >
-        <n-text>{{ $t('commons.currentConversationModel') }}: {{ getModelNameTrans(modelName as any) }} </n-text>
-        <n-text> 拥堵时请使用备选账户1：Sydney-Ai-1；2：Sydney-Ai-2；3：Sydney-Ai-3；4：Sydney-Ai-4；5：Sydney-Ai-5，密码均为Sydeny-Ai </n-text>
-        <n-text> PLUS版本33元起步，点击这里领取：<a href="https://b1n.net/6HmF0">Sydney</a> </n-text>
+        <div class="flex flex-col">
+          <n-text>{{ $t('commons.currentConversationModel') }}: {{ getModelNameTrans(modelName as any) }} </n-text>
+        </div>
+        <div class="flex flex-col">
+          <n-text> 拥堵时请使用备选账户1：Sydney-Ai-1；2：Sydney-Ai-2；3：Sydney-Ai-3；4：Sydney-Ai-4；5：Sydney-Ai-5，密码均为Sydeny-Ai </n-text>
+        </div>
+        <div class="flex flex-col">
+          <n-text> PLUS版本33元起步，点击这里：<a href="https://b1n.net/6HmF0">Sydney</a> 购买 </n-text>
+          <n-text> 点击<a href="https://mp.weixin.qq.com/s/AlSflEpkaTuwiMbDXIh-IA">本文</a>后转发至微信群，联系<a href="https://b1n.net/6HmF0">客服</a> 可领取4.0体验账户 </n-text>
+        </div>
+        <div class="flex flex-col">
+          <n-text> 点击这里添加<a href="https://b1n.net/6HmF0">Sydney-Ai</a> 加入交流微信群 </n-text>
+        </div>
         <n-button
           v-if="_fullscreen"
           class="absolute left-4 hide-in-print"
