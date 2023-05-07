@@ -14,10 +14,7 @@
             href="https://b1n.net/6HmF0"
             target="_blank"
           >
-            <n-icon
-              :color="appStore.theme == 'dark' ? 'white' : 'black'"
-              :component="LogoGithub"
-            />
+            <img src="/docs/sydney-logo.png" alt="Sydney Logo" :style="{ filter: appStore.theme == 'dark' ? 'invert(1)' : 'invert(0)' }" />
           </a>
         </div>
         <n-tag
