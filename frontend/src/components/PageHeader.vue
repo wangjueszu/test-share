@@ -14,7 +14,9 @@
             href="https://b1n.net/6HmF0"
             target="_blank"
           >
+            <n-avatar>
             <img src="/sydney-logo.png" alt="Sydney Logo" :style="{ filter: appStore.theme == 'dark' ? 'invert(1)' : 'invert(0)' }" />
+            </n-avatar>
           </a>
         </div>
         <n-tag
