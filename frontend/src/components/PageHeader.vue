@@ -15,7 +15,7 @@
             target="_blank"
           >
             <n-avatar>
-            <img src="/sydney-logo.svg" alt="Sydney Logo"}" />
+            <img src="/sydney-logo.svg" alt="Sydney Logo" />
             </n-avatar>
           </a>
         </div>
