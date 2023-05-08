@@ -17,6 +17,9 @@
           <n-text> 拥堵时请使用备选账户1：Sydney-Ai-1；2：Sydney-Ai-2；3：Sydney-Ai-3；4：Sydney-Ai-4；5：Sydney-Ai-5，密码均为Sydeny-Ai </n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
+          <n-text> 有故障无法使用，点击这里：<a href="https://b1n.net/X8I7G">Sydney</a> 反馈，工程师会立刻解决 </n-text>
+        </div>
+        <div class="py-4 px-4 max-w-full relative">
           <n-text> PLUS版本33元，点击这里：<a href="https://b1n.net/b2kKb">Sydney</a> 购买 </n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
