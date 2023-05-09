@@ -14,8 +14,12 @@
           <n-text>{{ $t('commons.currentConversationModel') }}: {{ getModelNameTrans(modelName as any) }} </n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
-          <n-text> 拥堵时请使用备选账户1：Sydney-Ai-1；2：Sydney-Ai-2；3：Sydney-Ai-3；4：Sydney-Ai-4；5：Sydney-Ai-5，密码均为Sydeny-Ai </n-text>
+          <n-text> 公共账户服务器，每日不定时清空全部的聊天记录！！！ </n-text>
         </div>
+        <div class="py-4 px-4 max-w-full relative">
+          <n-text> 拥堵时请使用备选账户1：Sydney-Ai-1；2：Sydney-Ai-2；3：Sydney-Ai-3；4：Sydney-Ai-4；5：Sydney-Ai-5，密码均为Sydeny-Ai </n-text>
+        </div
+        >
         <div class="py-4 px-4 max-w-full relative">
           <n-text> 有故障无法使用，点击这里：<a href="https://b1n.net/X8I7G">Sydney</a> 反馈，工程师会立刻解决 </n-text>
         </div>
