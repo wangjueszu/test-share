@@ -17,7 +17,7 @@
           <n-text> 公共账户服务器，每日不定时清空全部的聊天记录！！！ </n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
-          <n-text> 拥堵时请使用备选账户1：Sydney-Ai-1；2：Sydney-Ai-2；3：Sydney-Ai-3；4：Sydney-Ai-4；5：Sydney-Ai-5，密码均为Sydeny-Ai </n-text>
+          <n-text> 拥堵时请使用备选账户1：Sydney-Ai-1；2：Sydney-Ai-2；3：Sydney-Ai-3；4：Sydney-Ai-4；5：Sydney-Ai-5，密码均为Sydeny-Ai ；所有公共账户，每日均有一定数量的GPT4.0限免使用额度；3.5额度不限</n-text>
         </div
         >
         <div class="py-4 px-4 max-w-full relative">
