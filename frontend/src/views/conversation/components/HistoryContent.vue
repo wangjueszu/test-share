@@ -14,10 +14,10 @@
           <n-text>{{ $t('commons.currentConversationModel') }}: {{ getModelNameTrans(modelName as any) }} </n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
-          <n-text> 公共账户服务器，每日不定时清空全部的聊天记录！！！ </n-text>
+          <n-text> 每日清空全部的聊天记录！！！ </n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
-          <n-text> 拥堵时请使用备选账户1：Sydney-Ai-1；2：Sydney-Ai-2；3：Sydney-Ai-3；4：Sydney-Ai-4；5：Sydney-Ai-5，密码均为Sydeny-Ai ；所有公共账户，每日均有一定数量的GPT4.0限免使用额度；3.5额度不限</n-text>
+          <n-text> 目前共服务器<a href="http://free.mwiki.top:8080/">1</a>、2<a href="http://free.mwiki.top:8080/">2</a>两台，每台6个账户：0：Sydney-A；1：Sydney-Ai-1；2：Sydney-Ai-2；3：Sydney-Ai-3；4：Sydney-Ai-4；5：Sydney-Ai-5，密码均为Sydeny-Ai</n-text>
         </div
         >
         <div class="py-4 px-4 max-w-full relative">
@@ -25,9 +25,6 @@
         </div>
         <div class="py-4 px-4 max-w-full relative">
           <n-text> PLUS版本33元/月，GPT4.0流量包1元1次长期有效，点击这里：<a href="https://b1n.net/b2kKb">Sydney</a> 购买 </n-text>
-        </div>
-        <div class="py-4 px-4 max-w-full relative">
-          <n-text> 点击<a href="https://b1n.net/Ti1Dp">本文</a> 可领取4.0体验账户 </n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
           <n-text> 点击这里添加<a href="https://b1n.net/ax6hW">Sydney-Ai</a> 加入交流微信群 </n-text>
