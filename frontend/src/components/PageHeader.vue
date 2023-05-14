@@ -164,13 +164,14 @@ const getOptions = (): Array<DropdownOption> => {
           }),
       },
     },
-    {
-      label: t('commons.resetPassword'),
-      key: 'resetpwd',
-      props: {
-        onClick: resetPassword,
-      },
-    },
+   // {
+   //   label: t('commons.resetPassword'),
+   //   key: 'resetpwd',
+   //   props: {
+   //     onClick: resetPassword,
+   //   },
+   // },
+
     {
       label: t('commons.preferences'),
       key: 'preference',
