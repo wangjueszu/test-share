@@ -17,7 +17,7 @@
           <n-text> 目前有公益服务器<a href="http://free.mwiki.top:8080/">1</a>、<a href="http://free.mwiki.top:8081/">2</a>、<a href="http://free.mwiki.top:8083/">3</a>，每日均清空全部的聊天记录！！！ </n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
-          <n-text> 均有公益6个账户，0：Sydney-A；1：Sydney-Ai-1；2：Sydney-Ai-2；3：Sydney-Ai-3；4：Sydney-Ai-4；5：Sydney-Ai-5，密码均为Sydeny-Ai；拥堵时可切换账户。</n-text>
+          <n-text> 均有公益6个账户，0：Sydney-Ai；1：Sydney-Ai-1；2：Sydney-Ai-2；3：Sydney-Ai-3；4：Sydney-Ai-4；5：Sydney-Ai-5，密码均为Sydeny-Ai；拥堵时可切换账户。</n-text>
         </div
         >
         <div class="py-4 px-4 max-w-full relative">
