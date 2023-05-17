@@ -27,7 +27,7 @@
           <n-text> PLUS版本<strong style="text-decoration: underline;">19元/月</strong>起，多种方式体验GPT4.0，点击这里：<a href="https://b1n.net/b2kKb">Sydney</a> 购买 </n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
-          <n-text> 点击这里添加<a href="https://b1n.net/ax6hW">Sydney-Ai</a> 加入交流微信群，点击这里访问GPT项目<a href="http://wiki.sydney-ai.com">WIKI</a>，同时申请成为作者参与共建，即可尊享Plus会员礼遇</n-text>
+          <n-text> 点击这里添加<a href="https://b1n.net/ax6hW">Sydney-Ai</a> 加入交流微信群，点击这里访问GPT项目<a href="http://wiki.sydney-ai.com">WIKI</a>，申请成为作者参与共建，即可尊享Plus会员礼遇</n-text>
         </div>
         <n-button
           v-if="_fullscreen"
