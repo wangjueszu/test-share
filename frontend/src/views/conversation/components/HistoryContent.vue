@@ -14,17 +14,17 @@
           <n-text>{{ $t('commons.currentConversationModel') }}: {{ getModelNameTrans(modelName as any) }} </n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
-          <n-text> 目前有公益服务器<a href="http://free.mwiki.top:8080/">1</a>、<a href="http://free.mwiki.top:8081/">2</a>、<a href="http://free.mwiki.top:8083/">3</a>，每日均清空全部的聊天记录！！！ </n-text>
+          <n-text> 目前有公益服务器<a href="http://free.mwiki.top:8080/">1</a>、<a href="http://free.mwiki.top:8081/">2</a>、<a href="http://free.mwiki.top:8083/">3</a>，拥堵时可切换服务器尝试，每日均清空全部的聊天记录！！！ </n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
-          <n-text> 均有公益6个账户，0：Sydney-Ai；1：Sydney-Ai-1；2：Sydney-Ai-2；3：Sydney-Ai-3；4：Sydney-Ai-4；5：Sydney-Ai-5，密码均为Sydeny-Ai；拥堵时可切换账户。</n-text>
+          <n-text> 每服务器均有公益6个账户，0：Sydney-Ai；1：Sydney-Ai-1；2：Sydney-Ai-2；3：Sydney-Ai-3；4：Sydney-Ai-4；5：Sydney-Ai-5，密码均为Sydeny-Ai；拥堵时亦可切换账户。</n-text>
         </div
         >
         <div class="py-4 px-4 max-w-full relative">
           <n-text> 有故障无法使用，点击这里：<a href="https://b1n.net/X8I7G">Sydney</a> 反馈，工程师会立刻解决 </n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
-          <n-text> PLUS版本33元/月，GPT4.0流量包1元1次长期有效，点击这里：<a href="https://b1n.net/b2kKb">Sydney</a> 购买 </n-text>
+          <n-text> PLUS版本19元/月起，多种方式体验GPT4.0，点击这里：<a href="https://b1n.net/b2kKb">Sydney</a> 购买 </n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
           <n-text> 点击这里添加<a href="https://b1n.net/ax6hW">Sydney-Ai</a> 加入交流微信群 </n-text>
