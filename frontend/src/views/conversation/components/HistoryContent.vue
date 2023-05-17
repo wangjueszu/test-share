@@ -24,7 +24,7 @@
           <n-text> 有故障无法使用，点击这里：<a href="https://b1n.net/X8I7G">Sydney</a> 反馈，工程师会立刻解决 </n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
-          <n-text> PLUS版本<span style="background-color: yellow;">19元/月</span>起，多种方式体验GPT4.0，点击这里：<a href="https://b1n.net/b2kKb">Sydney</a> 购买 </n-text>
+          <n-text> PLUS版本<strong style="text-decoration: underline;">19元/月</strong>起，多种方式体验GPT4.0，点击这里：<a href="https://b1n.net/b2kKb">Sydney</a> 购买 </n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
           <n-text> 点击这里添加<a href="https://b1n.net/ax6hW">Sydney-Ai</a> 加入交流微信群 </n-text>
