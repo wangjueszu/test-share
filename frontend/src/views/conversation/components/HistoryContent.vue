@@ -14,20 +14,20 @@
           <n-text>{{ $t('commons.currentConversationModel') }}: {{ getModelNameTrans(modelName as any) }} </n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
-          <n-text> 目前有公益服务器<a href="http://free.mwiki.top:8080/">1</a>、<a href="http://free.mwiki.top:8081/">2</a>、<a href="http://free.mwiki.top:8083/">3</a>，拥堵时可切换服务器尝试，每日均清空全部的聊天记录！！！ </n-text>
+          <n-text> 说明提示1：服务器3台分别为<a href="https://b1n.net/6H7OF">1号服务器</a>、<a href="https://b1n.net/ypv3K">2号服务器</a>、<a href="https://b1n.net/krxAV">3号服务器</a></n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
-          <n-text> 每服务器均有公益6个账户，0：Sydney-Ai；1：Sydney-Ai-1；2：Sydney-Ai-2；3：Sydney-Ai-3；4：Sydney-Ai-4；5：Sydney-Ai-5，密码均为Sydeny-Ai；拥堵时亦可切换账户。</n-text>
+          <n-text> 说明提示2：公益服务器支持多账户使用，详细看服务器<a href="hhttp://wiki.sydney-ai.com/e/zh/gongyi">说明</a>。</n-text>
         </div
         >
         <div class="py-4 px-4 max-w-full relative">
-          <n-text> 有故障无法使用，点击这里：<a href="https://b1n.net/X8I7G">Sydney</a> 反馈，工程师会立刻解决 </n-text>
+          <n-text> 说明提示3： 有故障无法使用/想加入交流微信群，点击这里：<a href="https://b1n.net/X8I7G">Sydney</a> 联系处理 </n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
-          <n-text> PLUS版本<strong style="text-decoration: underline;">19元/月</strong>起，多种方式体验GPT4.0，点击这里：<a href="https://b1n.net/b2kKb">Sydney</a> 购买 </n-text>
+          <n-text> 说明提示4：PLUS版本<a href="http://wiki.sydney-ai.com/zh/More/Plus"><strong style="text-decoration: underline;">价格方案点击这里</strong></a></n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
-          <n-text> 点击这里添加<a href="https://b1n.net/ax6hW">Sydney-Ai</a> 加入交流微信群，点击这里访问GPT项目<a href="http://wiki.sydney-ai.com">WIKI</a>，申请成为作者参与共建，即可尊享Plus会员礼遇</n-text>
+          <n-text> 说明提示5：点击下方对话框，开始您的GPT之旅吧！使用无对话次数限制哦。</n-text>
         </div>
         <n-button
           v-if="_fullscreen"
