@@ -17,7 +17,7 @@
           <n-text> 说明提示1：服务器3台分别为<a href="https://b1n.net/6H7OF">1号服务器</a>、<a href="https://b1n.net/ypv3K">2号服务器</a>、<a href="https://b1n.net/krxAV">3号服务器</a></n-text>
         </div>
         <div class="py-4 px-4 max-w-full relative">
-          <n-text> 说明提示2：公益服务器支持多账户使用，详细看服务器<a href="hhttp://wiki.sydney-ai.com/zh/gongyi">说明</a>。</n-text>
+          <n-text> 说明提示2：公益服务器支持多账户使用，详细看服务器<a href="http://wiki.sydney-ai.com/zh/gongyi">说明</a>。</n-text>
         </div
         >
         <div class="py-4 px-4 max-w-full relative">
